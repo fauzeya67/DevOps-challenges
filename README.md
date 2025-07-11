@@ -30,5 +30,5 @@ Feel free to contribute or raise issues!
 
 ---
 
-Made with ❤️ by [[Fauzeya Naheed](https://www.linkedin.com/in/fauzeya-naheed) & [[saime shaikh(https://www.linkedin.com/in/saim-shaikh-devops/)]]
-]
+Made with ❤️ by [[Fauzeya Naheed](https://www.linkedin.com/in/fauzeya-naheed)] & [[saime shaikh](https://www.linkedin.com/in/saim-shaikh-devops/)]
+
