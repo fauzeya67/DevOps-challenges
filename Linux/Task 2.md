@@ -17,3 +17,10 @@
 - Change the permissions of `notes.txt` to allow the owner to read and write, the group to read only, and others no permissions.
 - Change the ownership of `notes.txt` to a different user and group (use existing users/groups on your system).
 - Check your current `umask` value. Then, change the `umask` value to `027` and create a new file. Verify the permissions of this file.
+
+<img width="1680" height="1050" alt="Screenshot 2025-06-24 at 10 53 41 PM" src="https://github.com/user-attachments/assets/8b8a0669-1708-41df-857d-16c587f55769" />
+
+```
+bash
+ls -l
+```
