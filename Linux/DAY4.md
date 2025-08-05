@@ -21,7 +21,7 @@ Set up passwordless SSH login from Server A to Server B using SSH key authentica
 Transfer a file named `index.html` from `/var/www/html/` on Server A to Server B’s same location using `scp`. Ensure the file is accessible through a web browser from Server B.
 
 ### 3. Running Apache and Nginx Simultaneously
-Configure Apache to run on port 8080 and Nginx on port 80 on the same server. Place separate `index.html` files in their document roots and verify both servers are running without conflict.
+Configure Apache  and Nginx simultaneously. Place separate `index.html` files in their document roots and verify both servers are running without conflict.
 
 ### 4. Search with grep
 Search for all lines containing the word “error” (case-insensitive) in the `/var/log/syslog` file. Save the output to a file called `errors.txt`.
@@ -30,7 +30,7 @@ Search for all lines containing the word “error” (case-insensitive) in the `
 Find all `.log` files in `/var/log/` that were modified in the last 7 days and copy them to a directory called `recent-logs/`.
 
 ### 6. Process Text with awk
-Given a file `users.csv` with the format `username,uid,gid,home`, print only the usernames and home directories using `awk`.
+Given a file `users.csv` with the format `username,uid, gid, home`, print only the usernames and home directories using `awk`.
 
 ### 7. Replace Text with sed
 You have a configuration file `/etc/nginx/nginx.conf`. Replace all occurrences of the word `localhost` with `127.0.0.1` using `sed` and create a backup of the original file.
